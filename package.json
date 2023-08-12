@@ -1,0 +1,23 @@
+{
+  "name": "budgetly",
+  "version": "1.0.0",
+  "description": "Finance budget controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "budgetly"
+  },
+  "keywords": [
+    "budget",
+    "finance"
+  ],
+  "author": "Claudio Teixeira Jr.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0"
+  }
+}
